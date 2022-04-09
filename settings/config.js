@@ -18,7 +18,7 @@ global.limit = {
 		free:20,
 		premium:1000
 	}
-global.session_name = "session.json"
+global.session_name = "king-haruka"
 
 
 let file = require.resolve(__filename)
